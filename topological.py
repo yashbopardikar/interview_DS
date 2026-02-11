@@ -1,6 +1,4 @@
 from collections import defaultdict
-
-
 class Solution:
     def topoSort(self, V, edges):
         # Code here
