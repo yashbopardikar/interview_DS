@@ -1,0 +1,23 @@
++ You are building a web application. The clickstream will later be consumed by
+AI systems that will be used to understand the customer
+experience with the product and improve the product experience. What are some key data attributes
+that should be recorded in the clickstream? Why record those?
+
+
+#####
+1. search results accuracy [1-10]
+2. no of clicks to get to product [no fo cicks to product]
+2.1 SKU of product.
+3. Availbility of product
+4. Accuracy description and pricing of product
+5. Are there any errors in the flow.
+6. time taken
+
+ID: custo1 -
+ 1. scrolls
+ 2. no of cicks to product
+ 2.1 Product details - productID SKU
+ 3. 10 - 1
+ 4. False/ True
+ 5. Ture / False
+ 6. time taken
