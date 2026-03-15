@@ -7,7 +7,7 @@ class Solution:
         adj = defaultdict(list)
         for u, v in edges:
             adj[u].append(v)
-
+        print(adj)
         def dfs(adj, u, visited, stack):
             visited.add(u)
             for nei in adj[u]:

@@ -1,6 +1,6 @@
 import time
 
-from rateLimit import TokenRequest, RateLimiter
+from Design.rateLimit import TokenRequest, RateLimiter
 
 if __name__ == "__main__":
     # Allow max 5 requests per 10 seconds per token
